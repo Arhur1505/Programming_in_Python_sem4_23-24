@@ -1,0 +1,35 @@
+Dodawanie elementu i:
+
+forStatement         => 196977331
+listComprehension    => 158575395
+mapFunction          => 385997944   result = list(result)
+generatorExpression  => 508248280   result = list(result)
+
+forStatement         => 203871574
+listComprehension    => 168265210
+mapFunction          => 256278
+generatorExpression  => 417867
+
+Dodawanie elementu i**2:
+
+forStatement         => 382245383
+listComprehension    => 351590308
+mapFunction          => 268167
+generatorExpression  => 421382
+
+forStatement         => 423444541
+listComprehension    => 384133354
+mapFunction          => 612975046   result = list(result)
+generatorExpression  => 485295507   result = list(result)
+
+Sumowanie sum():
+forStatement         => 224928899
+listComprehension    => 182077574
+mapFunction          => 350832099
+generatorExpression  => 252319640
+
+Sumowanie pętlą:
+forStatement         => 406542375
+listComprehension    => 349377595
+mapFunction          => 524972026
+generatorExpression  => 431178316
